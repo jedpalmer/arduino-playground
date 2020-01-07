@@ -11,8 +11,8 @@ CRGB leds[NUM_LEDS];
 #define BUTTON 2
 byte selectedEffect=0;
 
-const char* ssid = "Emphysys";
-const char* password = "2xG1LL$t#@!";
+const char* ssid = "your ssid";
+const char* password = "your password";
 
 void setup()
 {
